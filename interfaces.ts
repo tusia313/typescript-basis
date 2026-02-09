@@ -41,6 +41,7 @@ interface FruitCache {
 }
 
 const fruitCache: FruitCache = {
+    //dla przykładu
     "1": {name: "Banana", color: "yellow", sweetness: 90, stars: 3.5}
 };
 
